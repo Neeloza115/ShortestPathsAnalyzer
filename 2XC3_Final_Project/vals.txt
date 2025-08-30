@@ -1,0 +1,10 @@
+A* - 0.25 time saved: 50.350445%
+A* - 0.25 accuracy: 99.668874%
+A* - 0.5 time saved: 57.355378%
+A* - 0.5 accuracy: 99.668874%
+A* - 1 time saved: 75.206258%
+A* - 1 accuracy: 99.668874%
+A* - 2 time saved: 83.450279%
+A* - 2 accuracy: 97.465608%
+A* - 5 time saved: 83.017390%
+A* - 5 accuracy: 95.175755%
