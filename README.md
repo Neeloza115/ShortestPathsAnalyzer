@@ -4,12 +4,6 @@
 1. [Project Overview](#project-overview)  
 2. [Project Structure](#project-structure)  
 3. [Installation Requirements](#installation-requirements)  
-4. [How to Run the Code](#how-to-run-the-code)  
-5. [Experiments and Analysis](#experiments-and-analysis)  
-6. [UML Design](#uml-design)  
-7. [Team Charter](#team-charter)  
-8. [Appendix: Code Navigation](#appendix-code-navigation)  
-
 ---
 
 ## Project Overview
